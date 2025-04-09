@@ -1,0 +1,7 @@
+torch
+torchvision
+tqdm
+medmnist
+tensorboard
+torchmetrics[image]
+torch-fidelity
